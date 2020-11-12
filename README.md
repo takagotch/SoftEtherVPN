@@ -13,6 +13,18 @@ https://github.com/SoftEtherVPN/SoftEtherVPN
 
 
 ```
+
+[Softether VPN サーバー管理マネージャ]
+[□リモートアクセス VPN サーバー(R)]
+[仮想HUB名の決定]
+[ダイナミックDNS機能]
+[□L2TP サーバー機能を有効にする(L2TP over IPsec)]
+[IPsec事前共有鍵]
+
+win
+VPN VPN接続
+
+
 ```
 
 ```
