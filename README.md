@@ -24,7 +24,8 @@ softtether
 router
 ルーターのポートマッピング
 ブラウザーで”192.168.0.1″ または”web.etup”
-web.etup
+https://github.com/takagotch/SoftEtherVPN/blob/master/c478b1a6dedb96603a486610161ab963-14.jpg
+
 
 win
 VPN VPN接続
